@@ -1,4 +1,5 @@
 Directories:
+
 /client - client side app. Allows users to create/read/update/destroy their own streams, view streams of other users. 
 /api - json-server with stream data
 /rtmpserver - Real Time Messaging Protocol server that receives incoming video feed from streamer's OBS and then broadcasts it to the users' browsers.
